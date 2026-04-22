@@ -102,6 +102,7 @@ ml-cement-compressive-strength/
 ### Related resources
 
 - **Full case study**: [fuzzyfrog.ai/es/ai-lab/proyectos/industria/prediccion-resistencia-cemento](https://www.fuzzyfrog.ai/es/ai-lab/proyectos/industria/prediccion-resistencia-cemento/)
+- **Medium story**: [Your Cement Plant Is Waiting 28 Days for an Answer a Model Can Give in Seconds](https://medium.com/@alan.lopez.algorithmica/your-cement-plant-is-waiting-28-days-for-an-answer-a-model-can-give-in-seconds-1c8095b5f9bf)
 - **Author**: [FuzzyFrog AI](https://fuzzyfrog.ai)
 
 ### License
